@@ -26,18 +26,18 @@ U vrtiću, djeca uče o uzgoju biljaka. Učiteljica je odlučila da svako dijete
 
 ### Svako dijete dobije četiri čaše, po dvije u svakom redu:
 
-[prozor][prozor][prozor] 
-....................... # svaka tačka predstavlja čašu 
-.......................
+[prozor][prozor][prozor]<br>
+....................... # svaka tačka predstavlja čašu <br>
+.......................<br>
 
 
 Učiteljica dodjeljuje čaše djeci abecednim redom po imenima, što znači da **Alen** dolazi prvi, a **Tarik** posljednji.
 
 ### Primjer dijagrama koji predstavlja Alenove biljke:
 
-[prozor][prozor][prozor] 
-VR...................... 
-RG......................
+[prozor][prozor][prozor]<br>
+VR......................<br>
+RG......................<br>
 
 
 U prvom redu, najbližem prozoru, **Alen** ima **visibabu** i **rotkvicu**. U drugom redu ima **rotkvicu** i **grah**.
@@ -67,9 +67,9 @@ Implementiraj metodu koja učitava dijagram biljaka iz tekstualne datoteke i ini
 
 ## Primjer ulaza:
 
-[prozor][prozor][prozor] 
-VRCGVVRVCGGCCGVRGCVCGCGV 
-VRCCCGCRRGVCGCRVVCVGCGCV
+[prozor][prozor][prozor]<br>
+VRCGVVRVCGGCCGVRGCVCGCGV<br>
+VRCCCGCRRGVCGCRVVCVGCGCV<br>
 
 Ako upitate za **Alenove** biljke, program treba da vrati:
 
