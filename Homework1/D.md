@@ -44,10 +44,10 @@ Implementirajte funkciju koja učitava instrukcije iz tekstualne datoteke (`.txt
 
 ## Primjer instrukcija:
 
-\^<<
-\>\>vvv
-\<\^\>v\<
-\^\^\^^v
+\^<<<br>
+\>\>vvv<br>
+\<\^\>v\<<br>
+\^\^\^^v<br>
 
 
 ### Primjer dekodiranja:
